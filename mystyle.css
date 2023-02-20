@@ -1,0 +1,101 @@
+.header1 {
+  color: rgb(17, 16, 13);
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  align-content: center;
+}
+
+.footer1 {
+  color: rgb(28, 31, 28);
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  align-content: center;
+}
+
+.some {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-content: center;
+  }
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111111;
+}
+
+.home {
+  background-color: rgb(44, 48, 48);
+  padding-left: 12px;
+}
+.about {
+  background-color: rgb(44, 48, 48);
+  padding-left: 12px;
+}
+.skills {
+  background-color: rgb(44, 48, 48);
+  padding-left: 12px;
+}
+
+.blogs {
+  background-color: rgb(44, 48, 48);
+  padding-left: 12px;
+}
+
+body {
+  background-image: url("Imgs/background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img {
+  display: block;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.sub {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  align-content: center;
+}
+
+
+  
